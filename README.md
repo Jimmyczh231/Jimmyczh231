@@ -1,4 +1,12 @@
 ## Hi there 👋
+## This is Jimmy's account(陈卓恒)
+Currently studying as a computer science major at GDUT
+
+## 💻 I’m currently working on ...
+1. implementation of machine learning on medical imaging
+2. iOS app
+
+
 
 <!--
 **Jimmyczh231/Jimmyczh231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
