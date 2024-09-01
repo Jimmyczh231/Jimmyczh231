@@ -6,7 +6,13 @@ Currently studying as a computer science major at GDUT
 1. implementation of machine learning on medical imaging
 2. iOS app
 
+## 🧩 Things I like to do at my free time ...
+1. Archery 🏹 (currently preparing for a event)
+2. Indie game 🎮
+3. Music production 🎹
 
+## 🎯 My goals this year ...
+1. Publish a paper
 
 <!--
 **Jimmyczh231/Jimmyczh231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
